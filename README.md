@@ -7,11 +7,11 @@
 </p>
 
 <!-- ========================================================== -->
-<!--              🖥️ 3D ANIME CODING WORKSPACE               -->
+<!--     🖥️ ANIMATED LANDSCAPE: CODE TABS ORBIT + LIVE TYPING    -->
 <!-- ========================================================== -->
 
 <p align="center">
-  <img src="readme_assets/java-fullstack-3d-landscape.webp" width="100%" alt="Animated 3D anime developer coding at a futuristic neon workstation" />
+  <img src="java-fullstack-3d-landscape.svg" width="100%" alt="Anime developer typing while Java, Spring Boot, React, MongoDB and MySQL code tabs orbit around him" />
 </p>
 
 <p align="center">
@@ -260,6 +260,19 @@ Developer Workflow
 </td>
 </tr>
 </table>
+
+<br>
+
+<!-- ========================================================== -->
+<!--                    📊 GITHUB STATS                        -->
+<!-- ========================================================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udhithcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhithcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Top Languages" />
+</p>
 
 <br>
 
