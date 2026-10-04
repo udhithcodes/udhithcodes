@@ -1,77 +1,81 @@
-<!-- ====================================================== -->
-<!--                    3D HERO SECTION                     -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                 🚀 CRAZY 3D HERO BANNER                   -->
+<!-- ========================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,35:080b10,70:0d1713,100:00ff88&text=UDHITH%20R&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=21&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050509,25:11152b,50:351c68,75:0b6b75,100:00ff9d&text=UDHITH%20R&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=59&descSize=22&animation=twinkling" width="100%" />
 </p>
 
-<!-- Animated Coding PC -->
+<!-- 3D / Coding Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="3D Coding Animation" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=JAVA+FULL+STACK+DEVELOPER+%F0%9F%92%BB;JAVA+%7C+SPRING+BOOT+%7C+REACT.JS;MONGODB+%7C+MYSQL+%7C+MERN;BUILDING+REAL-WORLD+WEB+APPLICATIONS;CODE+%E2%80%A2+BUILD+%E2%80%A2+LEARN+%E2%80%A2+REPEAT" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620" alt="3D Developer Coding Animation" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mongodb,mysql,nodejs,express,git,github,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2600&pause=850&color=00FF9D&center=true&vCenter=true&width=900&lines=JAVA+FULL+STACK+DEVELOPER+%F0%9F%92%BB;JAVA+%7C+SPRING+BOOT+%7C+REACT.JS;MONGODB+%7C+MYSQL+%7C+MERN;BUILDING+REAL-WORLD+WEB+APPLICATIONS;CODE+%E2%9A%A1+BUILD+%F0%9F%9A%80+LEARN+%F0%9F%A7%A0+REPEAT" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mongodb,mysql,nodejs,express,git,github,vscode&perline=13" />
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                    ABOUT SECTION                       -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                   🧑‍💻 ABOUT ME                           -->
+<!-- ========================================================== -->
 
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="64%" valign="top">
 
 # 👋 Hi, I'm Udhith R
 
 ### ☕ Java Full Stack Developer
 
-I'm a **Java Full Stack Developer** and fresher passionate about creating modern, responsive and practical web applications.
+I'm a **Java Full Stack Developer** and fresher who enjoys building modern, responsive and practical web applications.
 
-My primary stack is:
+My primary full-stack stack is:
 
-> **Java + Spring Boot + React.js + MongoDB / MySQL**
+### `Java → Spring Boot → React.js → MongoDB / MySQL`
 
-I also explore the **MERN Stack** to expand my understanding of modern full-stack JavaScript development.
+I also explore the **MERN Stack** and modern AI-powered developer tools to expand my development workflow.
 
-I enjoy taking an idea from a simple concept and turning it into a working application through frontend development, backend APIs and database integration.
+I enjoy learning by building real projects, understanding how frontend and backend systems connect, and continuously improving my coding skills.
 
-### 💻 What I Work With
+### 💻 My Development Focus
 
-- ⚛️ **React.js** for modern frontend applications
-- 🟨 **JavaScript** for interactive web experiences
-- ☕ **Java** for backend development
-- 🌱 **Spring Boot** for REST APIs and server-side applications
-- 🍃 **MongoDB** for NoSQL database development
-- 🐬 **MySQL** for relational database development
-- 🌐 **MERN Stack** for JavaScript-based full-stack development
-- 🔧 **Git & GitHub** for version control and project management
+- ☕ **Java** — Core Java & backend development
+- 🌱 **Spring Boot** — REST APIs & backend applications
+- ⚛️ **React.js** — Modern frontend development
+- 🟨 **JavaScript** — Interactive web applications
+- 🍃 **MongoDB** — NoSQL database
+- 🐬 **MySQL** — Relational database
+- 🌐 **MERN Stack** — JavaScript full-stack development
+- 🤖 **AI Developer Tools** — Antigravity & Ollama
 
 </td>
 
-<td width="35%" align="center">
+<td width="36%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,mysql&perline=2" width="180" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JAVA-FULL%20STACK-00ff88?style=for-the-badge&labelColor=0d1117" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,mysql&perline=2" width="190" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/DEVELOPER-FRESHER-00ff88?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JAVA-FULL%20STACK-00ff9d?style=for-the-badge&labelColor=090b10" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00ff88?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FRONTEND-REACT.JS-61DAFB?style=for-the-badge&labelColor=090b10" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BACKEND-SPRING%20BOOT-6DB33F?style=for-the-badge&labelColor=090b10" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DATABASE-MONGODB%20%7C%20MYSQL-00ff9d?style=for-the-badge&labelColor=090b10" />
 
 </td>
 
@@ -80,35 +84,35 @@ I enjoy taking an idea from a simple concept and turning it into a working appli
 
 <br>
 
-<!-- ====================================================== -->
-<!--                3D DEVELOPER WORKSTATION               -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                🖥️ 3D CODING WORKSTATION                  -->
+<!-- ========================================================== -->
 
-<h2 align="center">🖥️ My 3D Coding Workspace</h2>
+<h2 align="center">🖥️⚡ My 3D Coding Workstation</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer Coding Animation" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" alt="Developer Coding Setup" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Developer Programming Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⌨️%20CODE-00ff88?style=for-the-badge&labelColor=080b10" />
-  <img src="https://img.shields.io/badge/🖥️%20BUILD-00ff88?style=for-the-badge&labelColor=080b10" />
-  <img src="https://img.shields.io/badge/☕%20JAVA-00ff88?style=for-the-badge&labelColor=080b10" />
-  <img src="https://img.shields.io/badge/🚀%20DEPLOY-00ff88?style=for-the-badge&labelColor=080b10" />
+  <img src="https://img.shields.io/badge/🖥️%20PC-DEV%20MODE-00ff9d?style=for-the-badge&labelColor=090b10" />
+  <img src="https://img.shields.io/badge/⌨️%20CODE-FOCUS-8A2BE2?style=for-the-badge&labelColor=090b10" />
+  <img src="https://img.shields.io/badge/☕%20JAVA-BUILD-ff8c00?style=for-the-badge&labelColor=090b10" />
+  <img src="https://img.shields.io/badge/🚀%20SHIP-IT-00d9ff?style=for-the-badge&labelColor=090b10" />
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                   3D TECHNOLOGY WALL                   -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                 🧊 TECHNOLOGY WALL                         -->
+<!-- ========================================================== -->
 
-<h2 align="center">🧊 3D Technology Stack</h2>
+<h2 align="center">🧊 My 3D Technology Universe</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mongodb,mysql,nodejs,express,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mongodb,mysql,nodejs,express&perline=10" />
 </p>
 
 <table align="center">
@@ -120,9 +124,11 @@ I enjoy taking an idea from a simple concept and turning it into a working appli
 
 Core Java  
 OOP  
+Methods  
+Arrays  
 Collections  
 Exception Handling  
-Java 8+ Concepts
+Java 8+
 
 </td>
 
@@ -134,7 +140,8 @@ Spring Boot
 REST APIs  
 Spring MVC  
 Dependency Injection  
-Backend Development
+Backend Development  
+API Integration
 
 </td>
 
@@ -147,7 +154,7 @@ Components
 Props  
 State  
 Hooks  
-Modern UI
+Responsive UI
 
 </td>
 
@@ -168,101 +175,198 @@ Database Integration
 
 <br>
 
-<!-- ====================================================== -->
-<!--                    FULL STACK PIPELINE                 -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                    🔧 TOOLS SECTION                        -->
+<!-- ========================================================== -->
 
-<h2 align="center">🔗 How I Build Full Stack Applications</h2>
+<h2 align="center">🛠️ Developer Tools</h2>
 
 <p align="center">
-
-```text
-                 🖥️ FRONTEND
-                      │
-                      ▼
-               ┌─────────────┐
-               │  REACT.JS   │
-               │ HTML/CSS/JS │
-               └──────┬──────┘
-                      │
-                      │ REST API
-                      ▼
-               ┌─────────────┐
-               │ SPRING BOOT │
-               │    JAVA     │
-               └──────┬──────┘
-                      │
-                      │ Data
-                      ▼
-          ┌────────────────────────┐
-          │     DATABASE LAYER     │
-          │                        │
-          │   🍃 MongoDB           │
-          │   🐬 MySQL             │
-          └────────────────────────┘
-```
-
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Desktop-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  →
-  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  →
-  <img src="https://img.shields.io/badge/MongoDB%20%2F%20MySQL-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=00ff9d" />
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                    CURRENTLY BUILDING                  -->
-<!-- ====================================================== -->
-
-<h2 align="center">🚀 Currently Building & Learning</h2>
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="50%">
 
-### ☕ Java
+<td align="center" width="25%">
 
-Strengthening Core Java, OOP, collections, exception handling, methods, arrays and modern Java concepts.
+### 🛰️ ANTIGRAVITY
 
-</td>
-
-<td align="center" width="50%">
-
-### 🌱 Spring Boot
-
-Learning backend development, REST APIs, Spring MVC and connecting applications with databases.
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### ⚛️ React.js
-
-Building modern interfaces and improving React components, JSX, props, state and hooks.
+AI-powered  
+agentic development  
+& coding workflow
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 
-### 🗄️ Databases
+### 🐙 GITHUB DESKTOP
 
-Practicing database design and application integration using MongoDB and MySQL.
+Repositories  
+Commits  
+Branches  
+Version Control
 
 </td>
+
+<td align="center" width="25%">
+
+### 🚀 POSTMAN
+
+REST API  
+Testing  
+Requests  
+Backend Debugging
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 OLLAMA
+
+Local AI  
+Models  
+AI Coding  
+Developer Workflow
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                       PROJECTS                         -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                  🔗 FULL STACK PIPELINE                    -->
+<!-- ========================================================== -->
+
+<h2 align="center">🔗 Full Stack Development Pipeline</h2>
+
+<p align="center">
+
+```text
+                       🖥️ USER
+                          │
+                          ▼
+                ┌─────────────────┐
+                │    ⚛️ REACT     │
+                │  FRONTEND UI    │
+                └────────┬────────┘
+                         │
+                         │ HTTP / REST
+                         ▼
+                ┌─────────────────┐
+                │  🌱 SPRING BOOT │
+                │   ☕ JAVA API   │
+                └────────┬────────┘
+                         │
+                         │ DATA
+                         ▼
+             ┌───────────────────────────┐
+             │      🗄️ DATABASE          │
+             │                           │
+             │   🍃 MongoDB   🐬 MySQL   │
+             └───────────────────────────┘
+```
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REACT.JS-FRONTEND-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/JAVA%20%2B%20SPRING%20BOOT-BACKEND-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/MONGODB%20%2F%20MYSQL-DATABASE-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</p>
+
+<br>
+
+<!-- ========================================================== -->
+<!--                 🚀 CURRENTLY LEARNING                      -->
+<!-- ========================================================== -->
+
+<h2 align="center">🚀 Currently Building & Learning</h2>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### ☕ JAVA BACKEND
+
+Strengthening Core Java, OOP, collections, exception handling, arrays, methods and modern Java concepts.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌱 SPRING BOOT
+
+Learning backend development, REST APIs, Spring MVC and database integration.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### ⚛️ REACT.JS
+
+Building modern interfaces and improving components, JSX, props, state and hooks.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧠 AI DEVELOPMENT
+
+Exploring **Antigravity** and **Ollama** as part of my modern coding workflow.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🗄️ DATABASES
+
+Practicing application integration with MongoDB and MySQL.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 FULL STACK
+
+Connecting frontend + backend + database into complete real-world applications.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================== -->
+<!--                       PROJECTS                            -->
+<!-- ========================================================== -->
 
 <h2 align="center">💻 Featured Projects</h2>
 
@@ -277,7 +381,7 @@ Practicing database design and application integration using MongoDB and MySQL.
 
 `HTML` `CSS` `JavaScript`
 
-A responsive shopping website with product pages, cart UI and mobile/desktop optimization.
+Responsive shopping website featuring product pages, cart UI and mobile/desktop optimization.
 
 🔗 **Repository**
 
@@ -293,7 +397,7 @@ https://github.com/udhithcodes/UX-E-COMMERCE
 
 `HTML` `CSS`
 
-A BMW-themed frontend project created to practice layouts, styling and web design.
+BMW-themed frontend project created to practice web layouts, styling and UI design.
 
 🔗 **Repository**
 
@@ -313,19 +417,19 @@ https://github.com/udhithcodes/BMW-Project
 
 `HTML` `CSS` `JavaScript`
 
-A colorful animated study planner featuring tasks, scheduling, progress tracking and dark/light mode.
+Colorful animated study planner featuring task management, scheduling, progress tracking and dark/light mode.
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✅ FULL STACK TO-DO
+### ✅ FULL STACK TO-DO APP
 
 **Java Full Stack Application**
 
 `React.js` `Spring Boot` `MongoDB`
 
-A full-stack project for practicing frontend development, backend REST APIs and database integration.
+A full-stack application created to practice frontend development, REST APIs, backend logic and database integration.
 
 </td>
 
@@ -334,63 +438,99 @@ A full-stack project for practicing frontend development, backend REST APIs and 
 
 <br>
 
-<!-- ====================================================== -->
-<!--                         MERN                           -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                         MERN                               -->
+<!-- ========================================================== -->
 
 <h2 align="center">🌐 MERN Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" />
 </p>
 
 <table align="center">
 <tr>
 
 <td align="center">
-🍃<br>
-<b>MongoDB</b>
+
+🍃
+
+### MongoDB
+
+Database
+
 </td>
 
 <td align="center">
-⚡<br>
-<b>Express.js</b>
+
+⚡
+
+### Express.js
+
+Backend
+
 </td>
 
 <td align="center">
-⚛️<br>
-<b>React.js</b>
+
+⚛️
+
+### React.js
+
+Frontend
+
 </td>
 
 <td align="center">
-🟢<br>
-<b>Node.js</b>
+
+🟢
+
+### Node.js
+
+Runtime
+
 </td>
 
 </tr>
 </table>
 
 <p align="center">
-Exploring MERN to understand JavaScript-based full-stack development alongside my primary Java stack.
+  <b>Exploring MERN alongside my primary Java Full Stack development path.</b>
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                  3D GITHUB CONTRIBUTION                -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                 🌌 3D GITHUB GALAXY                       -->
+<!-- ========================================================== -->
 
-<h2 align="center">🌌 My GitHub in 3D</h2>
+<h2 align="center">🌌 My GitHub Galaxy</h2>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/profile/username/udhithx" width="100%" alt="3D GitHub Contribution Graph" />
+  <img src="https://github-profile-3d-contrib.vercel.app/profile/username/udhithx" width="100%" alt="3D GitHub Galaxy Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udhithx&bg_color=050509&color=00ff9d&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                       GITHUB STATS                     -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                     🐍 CONTRIBUTION                       -->
+<!-- ========================================================== -->
+
+<h2 align="center">🐍 Coding Every Day</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/udhithx/udhithx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+</p>
+
+<br>
+
+<!-- ========================================================== -->
+<!--                      📊 ANALYTICS                         -->
+<!-- ========================================================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -402,26 +542,14 @@ Exploring MERN to understand JavaScript-based full-stack development alongside m
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=udhithx&theme=radical&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=udhithx&theme=radical&hide_border=true&border_radius=15" width="72%" />
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                    CONTRIBUTION SNAKE                  -->
-<!-- ====================================================== -->
-
-<h2 align="center">🐍 Coding Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/udhithx/udhithx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-<!--                       TROPHY                          -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                         🏆 TROPHY                         -->
+<!-- ========================================================== -->
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
@@ -431,13 +559,14 @@ Exploring MERN to understand JavaScript-based full-stack development alongside m
 
 <br>
 
-<!-- ====================================================== -->
-<!--                         GOALS                          -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                       🎯 GOALS                            -->
+<!-- ========================================================== -->
 
-<h2 align="center">🎯 My Developer Goals</h2>
+<h2 align="center">🎯 Developer Goals</h2>
 
 <table align="center">
+
 <tr>
 
 <td align="center">
@@ -457,7 +586,7 @@ Exploring MERN to understand JavaScript-based full-stack development alongside m
 <td align="center">
 
 ⚛️  
-<b>Improve React.js</b>
+<b>Level Up React.js</b>
 
 </td>
 
@@ -475,25 +604,26 @@ Exploring MERN to understand JavaScript-based full-stack development alongside m
 <td align="center">
 
 🗄️  
-<b>Master Databases</b>
+<b>Master MongoDB & MySQL</b>
 
 </td>
 
 <td align="center">
 
 🚀  
-<b>Build Production-Style Apps</b>
+<b>Build Real-World Apps</b>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                     CONNECT                            -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                     🔗 CONNECT                            -->
+<!-- ========================================================== -->
 
 <h2 align="center">🔗 Connect With Me</h2>
 
@@ -511,30 +641,41 @@ Exploring MERN to understand JavaScript-based full-stack development alongside m
 
 <br>
 
-<!-- ====================================================== -->
-<!--                      3D FOOTER                         -->
-<!-- ====================================================== -->
+<!-- ========================================================== -->
+<!--                    🌌 GALAXY FOOTER                       -->
+<!-- ========================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00ff88,35:0d1713,70:080b10,100:000000&animation=fadeIn" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/☕%20JAVA-00ff88?style=for-the-badge&labelColor=080b10" />
-  <img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-00ff88?style=for-the-badge&labelColor=080b10" />
-  <img src="https://img.shields.io/badge/⚛️%20REACT-00ff88?style=for-the-badge&labelColor=080b10" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:000000,25:09051c,50:24104f,75:063f54,100:00ff9d&animation=twinkling" width="100%" />
+
 </p>
 
 <p align="center">
 
-### 💻 Java Full Stack Developer
-
-**Code • Build • Debug • Learn • Repeat**
+<img src="https://img.shields.io/badge/☕%20JAVA-FULL%20STACK-00ff9d?style=for-the-badge&labelColor=050509" />
+<img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-BACKEND-6DB33F?style=for-the-badge&labelColor=050509" />
+<img src="https://img.shields.io/badge/⚛️%20REACT-FRONTEND-61DAFB?style=for-the-badge&labelColor=050509" />
+<img src="https://img.shields.io/badge/🧠%20AI-TOOLS-8A2BE2?style=for-the-badge&labelColor=050509" />
 
 </p>
 
 <p align="center">
-  <i>"Turning ideas into real-world applications, one line of code at a time."</i>
+
+### 💻 JAVA FULL STACK DEVELOPER
+
+**Code • Build • Debug • Learn • Create**
+
+</p>
+
+<p align="center">
+
+<i>“Turning ideas into real-world applications, one line of code at a time.”</i>
+
+</p>
+
+<p align="center">
+  🌌 <b>Welcome to my coding galaxy.</b> 🚀
 </p>
 
 <p align="center">
