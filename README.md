@@ -11,7 +11,7 @@
 <!-- ========================================================== -->
 
 <p align="center">
-  <img src="assets/java-fullstack-3d-landscape.png" width="100%" alt="3D anime developer coding at a futuristic workstation" />
+  <img src="readme_assets/java-fullstack-3d-landscape.webp" width="100%" alt="Animated 3D anime developer coding at a futuristic neon workstation" />
 </p>
 
 <p align="center">
