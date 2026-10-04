@@ -6,11 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050509,25:11152b,50:351c68,75:0b6b75,100:00ff9d&text=UDHITH%20R&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=JAVA%20FULL%20STACK%20DEVELOPER&descAlignY=59&descSize=22&animation=twinkling" width="100%" />
 </p>
 
-<!-- 3D / Coding Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620" alt="3D Developer Coding Animation" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2600&pause=850&color=00FF9D&center=true&vCenter=true&width=900&lines=JAVA+FULL+STACK+DEVELOPER+%F0%9F%92%BB;JAVA+%7C+SPRING+BOOT+%7C+REACT.JS;MONGODB+%7C+MYSQL+%7C+MERN;BUILDING+REAL-WORLD+WEB+APPLICATIONS;CODE+%E2%9A%A1+BUILD+%F0%9F%9A%80+LEARN+%F0%9F%A7%A0+REPEAT" alt="Typing SVG" />
 </p>
@@ -22,12 +17,11 @@
 <br>
 
 <!-- ========================================================== -->
-<!--                   🧑‍💻 ABOUT ME                           -->
+<!--                    🧑‍💻 ABOUT ME                           -->
 <!-- ========================================================== -->
 
 <table>
 <tr>
-
 <td width="64%" valign="top">
 
 # 👋 Hi, I'm Udhith R
@@ -56,29 +50,17 @@ I enjoy learning by building real projects, understanding how frontend and backe
 - 🤖 **AI Developer Tools** — Antigravity & Ollama
 
 </td>
-
 <td width="36%" align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,mysql&perline=2" width="190" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/JAVA-FULL%20STACK-00ff9d?style=for-the-badge&labelColor=090b10" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/FRONTEND-REACT.JS-61DAFB?style=for-the-badge&labelColor=090b10" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/BACKEND-SPRING%20BOOT-6DB33F?style=for-the-badge&labelColor=090b10" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/DATABASE-MONGODB%20%7C%20MYSQL-00ff9d?style=for-the-badge&labelColor=090b10" />
-
 </td>
-
 </tr>
 </table>
 
@@ -91,9 +73,7 @@ I enjoy learning by building real projects, understanding how frontend and backe
 <h2 align="center">🖥️⚡ My 3D Coding Workstation</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" alt="Developer Coding Setup" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Developer Programming Animation" />
+  <img src="./assets/java-fullstack-3d.jpg" width="100%" alt="3D Java Full Stack Developer Coding Workstation" />
 </p>
 
 <p align="center">
@@ -117,7 +97,6 @@ I enjoy learning by building real projects, understanding how frontend and backe
 
 <table align="center">
 <tr>
-
 <td align="center" width="25%">
 
 ### ☕ JAVA
@@ -131,7 +110,6 @@ Exception Handling
 Java 8+
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🌱 SPRING BOOT
@@ -144,7 +122,6 @@ Backend Development
 API Integration
 
 </td>
-
 <td align="center" width="25%">
 
 ### ⚛️ REACT.JS
@@ -157,7 +134,6 @@ Hooks
 Responsive UI
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🗄️ DATABASE
@@ -169,7 +145,6 @@ Data Management
 Database Integration
 
 </td>
-
 </tr>
 </table>
 
@@ -191,24 +166,22 @@ Database Integration
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=00ff9d" />
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&labelColor=111827&logoColor=00ff9d" />
 </p>
 
 <br>
 
 <table align="center">
 <tr>
-
 <td align="center" width="25%">
 
 ### 🛰️ ANTIGRAVITY
 
-AI-powered  
-agentic development  
-& coding workflow
+AI-assisted  
+development  
+and coding workflow
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🐙 GITHUB DESKTOP
@@ -219,7 +192,6 @@ Branches
 Version Control
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🚀 POSTMAN
@@ -230,7 +202,6 @@ Requests
 Backend Debugging
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🧠 OLLAMA
@@ -241,7 +212,6 @@ AI Coding
 Developer Workflow
 
 </td>
-
 </tr>
 </table>
 
@@ -282,86 +252,6 @@ Developer Workflow
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/REACT.JS-FRONTEND-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/JAVA%20%2B%20SPRING%20BOOT-BACKEND-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/MONGODB%20%2F%20MYSQL-DATABASE-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</p>
-
-<br>
-
-<!-- ========================================================== -->
-<!--                 🚀 CURRENTLY LEARNING                      -->
-<!-- ========================================================== -->
-
-<h2 align="center">🚀 Currently Building & Learning</h2>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### ☕ JAVA BACKEND
-
-Strengthening Core Java, OOP, collections, exception handling, arrays, methods and modern Java concepts.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌱 SPRING BOOT
-
-Learning backend development, REST APIs, Spring MVC and database integration.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-### ⚛️ REACT.JS
-
-Building modern interfaces and improving components, JSX, props, state and hooks.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🧠 AI DEVELOPMENT
-
-Exploring **Antigravity** and **Ollama** as part of my modern coding workflow.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-### 🗄️ DATABASES
-
-Practicing application integration with MongoDB and MySQL.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 FULL STACK
-
-Connecting frontend + backend + database into complete real-world applications.
-
-</td>
-
-</tr>
-</table>
-
 <br>
 
 <!-- ========================================================== -->
@@ -372,7 +262,6 @@ Connecting frontend + backend + database into complete real-world applications.
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🛒 UX E-COMMERCE
@@ -383,12 +272,10 @@ Connecting frontend + backend + database into complete real-world applications.
 
 Responsive shopping website featuring product pages, cart UI and mobile/desktop optimization.
 
-🔗 **Repository**
-
+🔗 **Repository**  
 https://github.com/udhithcodes/UX-E-COMMERCE
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🚘 BMW PROJECT
@@ -399,16 +286,12 @@ https://github.com/udhithcodes/UX-E-COMMERCE
 
 BMW-themed frontend project created to practice web layouts, styling and UI design.
 
-🔗 **Repository**
-
+🔗 **Repository**  
 https://github.com/udhithcodes/BMW-Project
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 📚 MOMENTUM
@@ -420,7 +303,6 @@ https://github.com/udhithcodes/BMW-Project
 Colorful animated study planner featuring task management, scheduling, progress tracking and dark/light mode.
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ✅ FULL STACK TO-DO APP
@@ -432,7 +314,6 @@ Colorful animated study planner featuring task management, scheduling, progress 
 A full-stack application created to practice frontend development, REST APIs, backend logic and database integration.
 
 </td>
-
 </tr>
 </table>
 
@@ -448,52 +329,6 @@ A full-stack application created to practice frontend development, REST APIs, ba
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" />
 </p>
 
-<table align="center">
-<tr>
-
-<td align="center">
-
-🍃
-
-### MongoDB
-
-Database
-
-</td>
-
-<td align="center">
-
-⚡
-
-### Express.js
-
-Backend
-
-</td>
-
-<td align="center">
-
-⚛️
-
-### React.js
-
-Frontend
-
-</td>
-
-<td align="center">
-
-🟢
-
-### Node.js
-
-Runtime
-
-</td>
-
-</tr>
-</table>
-
 <p align="center">
   <b>Exploring MERN alongside my primary Java Full Stack development path.</b>
 </p>
@@ -505,10 +340,6 @@ Runtime
 <!-- ========================================================== -->
 
 <h2 align="center">🌌 My GitHub Galaxy</h2>
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/profile/username/udhithx" width="100%" alt="3D GitHub Galaxy Contribution Graph" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=udhithx&bg_color=050509&color=00ff9d&line=8a2be2&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
@@ -548,75 +379,22 @@ Runtime
 <br>
 
 <!-- ========================================================== -->
-<!--                         🏆 TROPHY                         -->
-<!-- ========================================================== -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udhithx&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-</p>
-
-<br>
-
-<!-- ========================================================== -->
-<!--                       🎯 GOALS                            -->
+<!--                         GOALS                              -->
 <!-- ========================================================== -->
 
 <h2 align="center">🎯 Developer Goals</h2>
 
 <table align="center">
-
 <tr>
-
-<td align="center">
-
-☕  
-<b>Master Java</b>
-
-</td>
-
-<td align="center">
-
-🌱  
-<b>Become Strong in Spring Boot</b>
-
-</td>
-
-<td align="center">
-
-⚛️  
-<b>Level Up React.js</b>
-
-</td>
-
+<td align="center">☕<br><b>Master Java</b></td>
+<td align="center">🌱<br><b>Become Strong in Spring Boot</b></td>
+<td align="center">⚛️<br><b>Level Up React.js</b></td>
 </tr>
-
 <tr>
-
-<td align="center">
-
-🔗  
-<b>Build REST APIs</b>
-
-</td>
-
-<td align="center">
-
-🗄️  
-<b>Master MongoDB & MySQL</b>
-
-</td>
-
-<td align="center">
-
-🚀  
-<b>Build Real-World Apps</b>
-
-</td>
-
+<td align="center">🔗<br><b>Build REST APIs</b></td>
+<td align="center">🗄️<br><b>Master MongoDB & MySQL</b></td>
+<td align="center">🚀<br><b>Build Real-World Apps</b></td>
 </tr>
-
 </table>
 
 <br>
@@ -628,15 +406,12 @@ Runtime
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
-
 <a href="https://github.com/udhithx">
   <img src="https://img.shields.io/badge/GitHub-Udhithx-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/udhithx/">
   <img src="https://img.shields.io/badge/LinkedIn-Udhith_R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 </p>
 
 <br>
@@ -646,18 +421,14 @@ Runtime
 <!-- ========================================================== -->
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:000000,25:09051c,50:24104f,75:063f54,100:00ff9d&animation=twinkling" width="100%" />
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/☕%20JAVA-FULL%20STACK-00ff9d?style=for-the-badge&labelColor=050509" />
 <img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-BACKEND-6DB33F?style=for-the-badge&labelColor=050509" />
 <img src="https://img.shields.io/badge/⚛️%20REACT-FRONTEND-61DAFB?style=for-the-badge&labelColor=050509" />
 <img src="https://img.shields.io/badge/🧠%20AI-TOOLS-8A2BE2?style=for-the-badge&labelColor=050509" />
-
 </p>
 
 <p align="center">
@@ -669,15 +440,13 @@ Runtime
 </p>
 
 <p align="center">
-
 <i>“Turning ideas into real-world applications, one line of code at a time.”</i>
-
 </p>
 
 <p align="center">
-  🌌 <b>Welcome to my coding galaxy.</b> 🚀
+🌌 <b>Welcome to my coding galaxy.</b> 🚀
 </p>
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b>
+⭐ <b>Thanks for visiting my profile!</b>
 </p>
