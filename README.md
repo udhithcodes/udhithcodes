@@ -15,10 +15,6 @@
 </p>
 
 <p align="center">
-  <a href="coding-wallpaper-3K.mp4"><b>▶ Download the full-quality wallpaper (3074×2046, 30 FPS, seamless loop)</b></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=850&color=00FF9D&center=true&vCenter=true&width=900&lines=JAVA+FULL+STACK+DEVELOPER+%F0%9F%92%BB;JAVA+%7C+SPRING+BOOT+%7C+REACT.JS;MONGODB+%7C+MYSQL+%7C+MERN;BUILDING+MODERN+WEB+APPLICATIONS;LEARN+%E2%80%A2+BUILD+%E2%80%A2+IMPROVE+%E2%80%A2+REPEAT" alt="Java Full Stack Developer Typing Animation" />
 </p>
 
