@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udhithcodes&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=udhithcodes&label=PROFILE%20VIEWS&labelColor=%23090b10&countColor=%2300ff9d&style=for-the-badge" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/JAVA-FULL%20STACK-00ff9d?style=for-the-badge&labelColor=090b10" alt="Java Full Stack" />
   &nbsp;
