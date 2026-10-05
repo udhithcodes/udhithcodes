@@ -7,11 +7,15 @@
 </p>
 
 <!-- ========================================================== -->
-<!--     🖥️ ANIMATED LANDSCAPE: CODE TABS ORBIT + LIVE TYPING    -->
+<!--     🖥️ ANIMATED WALLPAPER: CODING AT NIGHT (LOOPING)      -->
 <!-- ========================================================== -->
 
 <p align="center">
-  <img src="java-fullstack-3d-landscape.svg" width="100%" alt="Anime developer typing while Java, Spring Boot, React, MongoDB and MySQL code tabs orbit around him" />
+  <img src="assets/coding-wallpaper.webp" width="100%" alt="Animated anime wallpaper of Udhith coding at a glowing monitor in a neon blue-purple room, with typing, blinking, lightning pulses and a slow cinematic push-in" />
+</p>
+
+<p align="center">
+  <a href="assets/coding-wallpaper-3K.mp4"><b>▶ Download the full-quality wallpaper (3074×2046, 30 FPS, seamless loop)</b></a>
 </p>
 
 <p align="center">
