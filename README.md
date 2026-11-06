@@ -202,13 +202,7 @@ Developer Productivity
 <h2 align="center">📊 GitHub Activity & Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udhithcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udhithcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udhithcodes&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udhithcodes&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <!-- ========================================================== -->
